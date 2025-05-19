@@ -37,7 +37,7 @@ I develop algorithms for 5G, optical systems, and ML-driven communications, focu
   </a>
  <!--  <a href="https://www.linkedin.com/in/hamed-hosseinnejad-75a54b1b4/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
+  </a>-->
 </p>
 
 
