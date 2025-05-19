@@ -4,8 +4,8 @@
 
 I develop algorithms for 5G, optical systems, and ML-driven communications, focusing on real-time and signal processing challenges.
 
-- 🌍 I'm based in Canada  
-- ✉️ Contact me at [hamed.hosseinnejad98@gmail.com](mailto:hamed.hosseinnejad98@gmail.com)  
+- 🌍 I'm based in Canada
+<!-- - ✉️ Contact me at [hamed.hosseinnejad98@gmail.com](mailto:hamed.hosseinnejad98@gmail.com)   -->
 - I'm open to collaborating on wireless systems, 5G research, signal processing, resource allocation, and ML-based communication algorithms.
 
 ---
