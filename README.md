@@ -1,16 +1,16 @@
 # Hi, I'm Hamed 
 
-### Algorithm Developer | 5G, Optical Systems, and Machine Learning
+### Algorithm Developer | 4G/5G L1/L2, Optical Systems, and ML-driven communications
 
-I develop algorithms for 5G, optical systems, and ML-driven communications, focusing on real-time and signal processing challenges.
-
-- 🌍 I'm based in Canada
-<!-- - ✉️ Contact me at [hamed.hosseinnejad98@gmail.com](mailto:hamed.hosseinnejad98@gmail.com)   -->
-- I'm open to collaborating on wireless systems, 5G research, signal processing, resource allocation, and ML-based communication algorithms.
-
+#### Interests: 
+  - Real-time and signal processing challenges
+  - 4G/5G Physical layer, MAC layer
+  - Resource allocation
+  - Indoor optical wireless communications
+  - ML-based communication algorithms
 ---
 
-### ⚙️ Skills
+### Skills
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36"/>
@@ -29,15 +29,15 @@ I develop algorithms for 5G, optical systems, and ML-driven communications, focu
 
 ---
 
-### 🌐 Socials
+### Socials
 
 <p align="left">
   <a href="https://github.com/hamed-h98" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" height="32" alt="GitHub" />
   </a>
- <!--  <a href="https://www.linkedin.com/in/hamed-hosseinnejad-75a54b1b4/" target="_blank">
+   <a href="https://www.linkedin.com/in/hamed-hosseinnejad-75a54b1b4/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>-->
+  </a>
 </p>
 
 
