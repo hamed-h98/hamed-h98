@@ -56,8 +56,9 @@ I develop algorithms for 5G, optical systems, and ML-driven communications, focu
 <!-- <a href="https://github.com/hamed-h98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-h98&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
 
 <a href="https://github.com/hamed-h98" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-h98&langs_count=6&hide=html,css&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-h98&langs_count=10&hide=html,css,jupyter%20notebook&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+
 
 
 <b>Top Repositories</b>
