@@ -5,7 +5,6 @@
 #### Interests: 
   - Real-time and signal processing challenges
   - 4G/5G physical layer, MAC layer
-  - Resource allocation
   - Indoor optical wireless communications
   - ML-based communication algorithms
 ---
