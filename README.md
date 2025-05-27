@@ -3,10 +3,11 @@
 ### Algorithm Developer | 4G/5G L1/L2, Optical Systems, and ML-driven communications
 
 #### Interests: 
-  - Real-time and signal processing challenges
   - 4G/5G physical layer, MAC layer
-  - Indoor optical wireless communications
+  - Real-time and signal processing challenges
   - ML-based communication algorithms
+  - Indoor optical wireless communications
+
 ---
 
 ### Skills
