@@ -23,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/hfinkel/gnuradio-logo/master/gnuradio-logo.png" alt="GNU Radio" width="36"/>
 
 
   
