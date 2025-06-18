@@ -54,11 +54,18 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamed-h98&theme=github-compact)](https://github.com/hamed-h98)
 
 
-<!-- <a href="https://github.com/hamed-h98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-h98&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
-
+<!--
 <a href="https://github.com/hamed-h98" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-h98&langs_count=10&hide=html,css,jupyter%20notebook&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+-->
+
+## Languages Used
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
+
 
 
 <!--
